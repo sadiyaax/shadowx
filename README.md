@@ -9,16 +9,18 @@ The goal is to enhance the Signal-to-Noise Ratio (SNR), reduce noise, and genera
 ---
 
 ## Project Structure
+```
 ShadowX/
-├── env/ # Virtual environment (optional)
-├── src/ # Source code directory
-│ ├── gui/ # GUI-related code
-│ ├── processing/ # Image processing algorithms
-│ └── main.py # Main entry point for the application
-├── tests/ # Testing scripts
-├── docs/ # Documentation and guides
-├── requirements.txt # List of dependencies
-└── README.md # Project description
+├── env/                 # Virtual environment (optional)
+├── src/                 # Source code directory
+│   ├── gui/             # GUI-related code
+│   ├── processing/      # Image processing algorithms
+│   └── main.py          # Main entry point for the application
+├── tests/               # Testing scripts
+├── docs/                # Documentation and guides
+├── requirements.txt     # List of dependencies
+└── README.md            # Project description
+```
 
 ### Directory Details
 
