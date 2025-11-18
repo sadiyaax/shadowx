@@ -7,16 +7,18 @@ The ShadowX project aims to enhance the feeble light reflected from the Permanen
 ## Project Structure
 The project is organized into the following directories and files:
 
+```
 ShadowX/
-├── env/ # Virtual environment
-├── src/ # Source code directory
-│ ├── gui/ # GUI-related code
-│ ├── processing/ # Image processing algorithms
-│ ├── main.py # Main entry point for the application
-├── tests/ # Testing scripts
-├── docs/ # Documentation
-├── requirements.txt # Dependencies list
-└── README.md # Project description
+├── env/                 # Virtual environment (optional)
+├── src/                 # Source code directory
+│   ├── gui/             # GUI-related code
+│   ├── processing/      # Image processing algorithms
+│   └── main.py          # Main entry point for the application
+├── tests/               # Testing scripts
+├── docs/                # Documentation and guides
+├── requirements.txt     # List of dependencies
+└── README.md            # Project description
+```
 
 
 - **`env/`**: Contains the virtual environment for the project (optional).
